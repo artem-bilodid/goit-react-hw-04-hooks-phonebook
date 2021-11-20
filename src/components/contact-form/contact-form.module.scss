@@ -1,0 +1,21 @@
+.form {
+  padding: 8px;
+  width: 380px;
+  border: 1px solid black;
+
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.label {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.button {
+  margin-top: 20px;
+  width: 250px;
+}
